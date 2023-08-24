@@ -31,4 +31,3 @@ Beyond basic functionalities, Power BI offers advanced features such as natural 
 Power BI's data gateway functionality ensures secure access to on-premises data sources without compromising sensitive information.
 
 In conclusion, Power BI is a versatile tool empowering organizations to convert data into actionable insights. It facilitates the creation of compelling visualizations, seamless collaboration, and informed decision-making through data-driven analyses.
-
