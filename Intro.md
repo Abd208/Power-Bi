@@ -4,7 +4,7 @@ Power BI, developed by Microsoft, is a robust business intelligence and data vis
 
 ## Connecting and Transforming Data
 
-Power BI allows users to connect to various data sources such as databases, spreadsheets, and cloud services. Through an intuitive interface, users can then shape and refine the data, preparing it for analysis. This involves cleaning, structuring, and modeling the data to create a suitable foundation for insights.
+Power BI allows users to  connect to various data sources such as databases, spreadsheets, and cloud services. Through an intuitive interface, users can then shape and refine the data, preparing it for analysis. This involves cleaning, structuring, and modeling the data to create a suitable foundation for insights.
 
 ## Creating Data Models and Relationships
 
